@@ -1,0 +1,199 @@
+/* Global Styles */
+
+:root {
+    
+    
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+
+body {
+font-family: Inter, sans-serif;
+ 
+ border: 2px solid orange;
+ margin: 0;
+ padding: 4px;
+ background-color: #B5EAEA;
+ font-size: 16px;
+ 
+}
+
+/* .logo-img {
+   display: block;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 25px;
+    padding: 1.5px;
+    margin: 5px;
+    font-weight: 900;
+}
+
+*/
+
+.logo {
+   display: block;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 25px;
+    padding: 1.5px;
+    margin: 5px;
+    font-weight: 900;
+
+}
+
+.main {
+ border: 2px solid cyan;
+margin-top: 100px;
+margin-left: 6px;
+margin-right: 6px;
+/* margin-bottom: 6px; */
+padding: 5px;
+}
+
+.prof-img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1.5px;
+    border: 12px solid #71C9CE;
+    border-radius: 50%;
+}
+
+.title {
+    display: block;
+    height: 100%;
+    width: 100%;
+   /* margin-top: 25px; */
+   margin-bottom: 5px;
+   margin-left: auto;
+    margin-right: auto;
+   font-weight: 900;
+   font-size: 38px;
+   
+}
+
+.main-sub {
+     display: block;
+     height: 100%;
+     width: 100%;
+     margin-bottom: 10px;
+     margin-left: auto;
+    margin-right: auto;
+     
+}
+
+.bio {
+    display: block;
+     height: 100%;
+     width: 100%;
+     margin-bottom: 10px;
+     margin-left: auto;
+    margin-right: auto;
+}
+
+.bio-card {
+    background-color: #A6E3E9;
+    width: 98%;
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.nav-card {
+    background-color: #71C9CE;
+    width: 98%;
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.lang-card {
+    background-color: #A6E3E9;
+    width: 98%;
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.path-card {
+    background-color: #71C9CE;
+    width: 98%;
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+
+.goal-card {
+    background-color: #A6E3E9;
+    width: 98%;
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.learn-card {
+    background-color: #71C9CE;
+    width: 98%;
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+
+.project-card {
+    background-color: #A6E3E9;
+    width: 98%;
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+
+.connect-card {
+    background-color: #71C9CE;
+    width: 98%;
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+
+.foot-card {
+    background-color: #A6E3E9;
+    width: 98%;
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+h3 {
+  margin-bottom: 10px;  
+}
